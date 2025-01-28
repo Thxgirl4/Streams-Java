@@ -12,3 +12,5 @@ public class TestFlatMap {
         System.out.println("Elementos achados: " + elements);
     }
 }
+//Transforma cada elemento em zero ou mais elementos aplicando uma função
+//que retorna um stream para cada elemnto
